@@ -24,6 +24,10 @@ h5 {
     font-weight: 700;
 }
 
+.btn {
+	width: 150px;
+}
+
 .lead {
     font-size: 18px;
     font-weight: 400;
